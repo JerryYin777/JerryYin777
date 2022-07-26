@@ -4,10 +4,11 @@
 
 My supervisor is Zichen Xu aka Frank.
 
-I currently research in NLP and Federated learning(Security)
+I currently research in NLP and Federated learning(Security).
 
-I love photography 📷, traveling ✈️,and gaming😄  
+I love photography 📷, traveling ✈️,and gaming😄.  
 
+If you want to know more about me, maybe you can click my [Resume](https://JerryYin777.github.io).
 
 ![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=tokyonight)
 
