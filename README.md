@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🤓 I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence,working in [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html).
+🤓 I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence,working in [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html) and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).
 
 My supervisor is Zichen Xu aka Frank.
 
