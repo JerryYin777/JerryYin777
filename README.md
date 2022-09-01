@@ -17,11 +17,15 @@ If you want to know more about me, maybe you can click my [Resume](https://Jerry
 
 [![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Creator&theme=radical)](https://github.com/JerryYin777/Creator)
 
+
 ### Linker:
 
 [![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Linker&theme=radical)](https://github.com/JerryYin777/Linker)
 
-> **Note:** Currently, this project only supports specific pictures.
+
+### Mathematical-Modelling:
+
+[![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Mathematical-Modelling&theme=radical)](https://github.com/JerryYin777/Mathematical-Modelling)
 
 ### Keep writing and publishing articles daily about research comm (school life,research(federated learning) and so on) in Chinese:
 
