@@ -2,15 +2,19 @@
 
 🤓 I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence,working in [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html) and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).
 
-My supervisor is Zichen Xu aka Frank.
+My supervisor is [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html) aka Frank,he is an excellent expert in the area of computing system design in the development of providing sustainable data services in unreliable/unstable systems.
 
-I currently research in NLP and Federated learning(Security).
+I currently research in NLP in the field of BERT optimization and Federated learning in security,mainly on problems of unreliable the Byzantine Generals Problem.
 
 I love photography 📷, traveling ✈️,and gaming😄.  
 
 If you want to know more about me, maybe you can click my [Resume](https://JerryYin777.github.io) or [Blog](http://47.107.123.245/).
 
 ![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=tokyonight)
+
+![JerryYin777's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYin777&layout=compact&hide_border=true&langs_count=10)
+
+
 
 ## My side projects
 ### Creator:
