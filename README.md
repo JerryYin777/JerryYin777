@@ -12,7 +12,7 @@ If you want to know more about me, maybe you can click my [Resume](https://Jerry
 
 ![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=tokyonight)
 
-![JerryYin777's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYin777&layout=compact&hide_border=true&langs_count=10)
+![JerryYin777's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYin777&layout=compact&hide_border=true&langs_count=7)
 
 
 
