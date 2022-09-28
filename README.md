@@ -4,7 +4,7 @@
 
 My supervisor is [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html) aka Frank,he is an excellent expert in the area of computing system design in the development of providing sustainable data services in unreliable/unstable systems.
 
-I currently research in NLP in the field of BERT optimization and Federated learning in security,mainly on problems of unreliable the Byzantine Generals Problem.
+I researched in NLP in the field of BERT optimization(Early Exit) and Federated learning in security,mainly on problems of unreliable the Byzantine Generals Problem.Now,I decide to do some engineering work on hardware like Soc and FPGA.
 
 I love photography 📷, traveling ✈️,and gaming😄.  
 
