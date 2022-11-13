@@ -10,9 +10,6 @@ I love photography 📷, traveling ✈️,and gaming😄.
 
 If you want to know more about me, maybe you can click my [Resume](https://JerryYin777.github.io) or [Blog](http://47.107.123.245/).
 
-![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=tokyonight)
-
-
 [![JerryYin777's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerryYin777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My side projects
