@@ -12,9 +12,8 @@ If you want to know more about me, maybe you can click my [Resume](https://Jerry
 
 ![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=tokyonight)
 
-![JerryYin777's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYin777&layout=compact&hide_border=true&langs_count=7)
 
-
+[![JerryYin777's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerryYin777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My side projects
 ### Creator:
