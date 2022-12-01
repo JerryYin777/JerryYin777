@@ -13,10 +13,6 @@ If you want to know more about me, maybe you can click my [Resume](https://Jerry
 [![JerryYin777's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerryYin777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My side projects
-### Creator:
-
-[![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Creator&theme=radical)](https://github.com/JerryYin777/SoftwareCup_A9_2022)
-
 
 ### Linker:
 
