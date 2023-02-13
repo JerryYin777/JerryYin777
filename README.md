@@ -8,7 +8,7 @@ I researched in NLP in the field of BERT optimization(Early Exit) and Federated 
 
 I love photography 📷, traveling ✈️,and gaming😄.  
 
-If you want to know more about me, maybe you can click my [Resume](https://JerryYin777.github.io) or [Blog](http://47.107.123.245/).
+If you want to know more about me, feel free to click my [Resume](https://JerryYin777.github.io) or [Blog](http://47.107.123.245/).
 
 [![CongruiYin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JerryYin777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
