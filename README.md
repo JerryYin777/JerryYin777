@@ -12,9 +12,19 @@ If you want to know more about me, feel free to click my [Personal Website](http
 
 ## My side projects
 
+
+
+### Nano-GPT-Pytorch2.0 Implementation:
+
+[![Nano-GPT-Pytorch2.0](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=NanoGPT-Pytorch2.0-Implementation&theme=radical)](https://github.com/JerryYin777/NanoGPT-Pytorch2.0-Implementation)
+
 ### Linker:
 
 [![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Linker&theme=radical)](https://github.com/JerryYin777/Linker)
+
+### 智能创作平台Creator:
+
+[![智能创作平台Creator](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=SoftwareCup_A9_2022&theme=radical)](https://github.com/JerryYin777/SoftwareCup_A9_2022)
 
 
 ### Mathematical-Modelling:
