@@ -7,7 +7,7 @@
 
 I love photography 📷, traveling ✈️,and gaming😄.  
 
-If you want to know more about me, feel free to click my [Personal Website](https://JerryYin777.github.io).
+If you want to know more about me, feel free to click my [Personal Website](www.creallatie.icu).
 
 Let's Accelerate!
 
@@ -38,7 +38,7 @@ Let's Accelerate!
 
 ### Keep writing and publishing articles daily about research comm (school life,research(federated learning) and so on) in Chinese:
 
-[知乎专栏：鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352)
+[知乎专栏：鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352) [Personal Blog](www.creallatie.icu/)
 
 
 ## Get in touch
