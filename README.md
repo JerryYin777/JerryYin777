@@ -7,7 +7,7 @@
 
 I love photography 📷, traveling ✈️,and gaming😄.  
 
-If you want to know more about me, feel free to click my [Personal Website](www.creallatie.icu).
+If you want to know more about me, feel free to click my [Personal Website](https://www.creallatie.icu/).
 
 Let's Accelerate!
 
