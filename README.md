@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-  I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence,working at [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html) and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).I want to be an excellent NLP or System Ph.D and do more interesting open-source projects.
-    
-  I am a researcher mainly focuses on Serverless and NLP in the field of BERT optimization on LLMs(also intrested in FPGA and SoC Design),my supervisor is [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html),he is an excellent expert in the area of computing system design in the development of providing sustainable data services in unreliable/unstable systems.
+  I'm JerryYin 骢睿, an undergraduate sophomore in Nanchang University majoring in artificial intelligence, working at [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html) and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).
+  
+  I want to be an excellent NLP or System Ph.D and do more interesting open-source projects, **looking for RA chances now**.
+  
+  I am a researcher mainly focuses on Serverless and NLP in the field of BERT optimization on LLMs(also intrested in FPGA and SoC Design),my supervisor is [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html), he is an excellent expert in the area of computing system design in the development of providing sustainable data services in unreliable/unstable systems.
   
 
-I love photography 📷, traveling ✈️,and gaming😄.  
+I love photography 📷, traveling ✈️, and gaming😄.  
 
 If you want to know more about me, feel free to click my [Personal Website](https://www.creallatie.icu/).
 
@@ -38,7 +40,7 @@ Let's Accelerate!
 
 ### Keep writing and publishing articles daily about research comm (school life,research(federated learning) and so on) in Chinese:
 
-[知乎专栏：鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352) [Personal Blog](www.creallatie.icu/)
+[知乎专栏：鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352)       &nbsp;&nbsp;&nbsp;            [Personal Blog](www.creallatie.icu/)
 
 
 ## Get in touch
