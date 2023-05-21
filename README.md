@@ -19,11 +19,13 @@ Let's Accelerate!
 
 ## My side projects
 
-
-
 ### Nano-GPT-Pytorch2.0 Implementation:
 
 [![Nano-GPT-Pytorch2.0](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=NanoGPT-Pytorch2.0-Implementation&theme=radical)](https://github.com/JerryYin777/NanoGPT-Pytorch2.0-Implementation)
+
+### NaturalCC: An Open-Source Toolkit for Code Intelligence
+
+[![Nano-GPT-Pytorch2.0](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=naturalcc&theme=radical)](https://github.com/JerryYin777/naturalcc)
 
 ### Linker:
 
@@ -40,12 +42,14 @@ Let's Accelerate!
 
 ### Keep writing and publishing articles daily about research comm (school life,research(federated learning) and so on) in Chinese:
 
-[知乎专栏：鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352)       &nbsp;&nbsp;&nbsp;            [Personal Blog](www.creallatie.icu/)
+知乎专栏：[鹅の每日所得](https://www.zhihu.com/column/c_1531067260675940352)
+个人博客：[Personal Blog](www.creallatie.icu/)
 
 
 ## Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/JerryYin777)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/ycr222)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%20-lightgrey)](https://scholar.google.com/citations?hl=en&user=7gsdLw4AAAAJ)
 
 
