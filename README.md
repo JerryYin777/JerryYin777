@@ -12,10 +12,6 @@ If you want to know more about me, feel free to click on my [Personal Website](h
 
 Let's Accelerate!
 
-![JerryYin777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryYin777&show_icons=true&theme=dracula)
-
-[![CongruiYin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JerryYin777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## My side projects
 
 ### BMTrain: Efficient Training (including pre-training and fine-tuning) for Big Models
