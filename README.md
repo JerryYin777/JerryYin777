@@ -1,4 +1,4 @@
-## Hi there（Update in  👋
+## Hi there（Update in 8.10） 👋
 
   I'm JerryYin 骢睿, an undergraduate Junior at Nanchang University majoring in artificial intelligence, working at [Generic Operational and Optimal Data Group](https://good.ncu.edu.cn/index.html), and here is my [personal lab page](https://good.ncu.edu.cn/~YinCR/).
   
