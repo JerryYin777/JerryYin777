@@ -1,5 +1,5 @@
 ## Hi there（Update in 1.2） 👋
-
+#### Biography
 I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities.
 
 My research interests lie in Large Multimodal Models (LMMs) and their application in diverse practical scenarios, such as biological and system large models. My focus also extends to developing efficient machine learning systems aimed at expediting the training and inference processing of LMMs (especially LLMs), leveraging expertise in high-performance computing and distributed systems.
