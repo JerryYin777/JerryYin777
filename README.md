@@ -52,7 +52,7 @@ Let's Accelerate!
 
 ### Intelligent Creation Platform Creator: Implementing GPT-2-based Title and Summary Generation Software
 
-[![Intelligent Creation Platform Creator](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=SoftwareCup_A9_2022&theme=radical)](https://github.com/JerryYin777/SoftwareCup_A9_2022)
+[![Intelligent Creation Platform Creator](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=IntelligentCreator&theme=radical)](https://github.com/JerryYin777/IntelligentCreator)
 
 ### Linker: 3D -> Live2D, Live2D character generator
 
