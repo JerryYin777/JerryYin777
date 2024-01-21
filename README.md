@@ -1,4 +1,4 @@
-## Hi there（Update in 1.2） 👋
+## Hi there（Update in 1.20） 👋
 #### Biography
 I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities.
 
@@ -10,6 +10,7 @@ I was also fortunately recruited as a research assistant at **TOP** NLP Lab [Tsi
 
 I am passionate about open source and firmly believe in its potential to disseminate knowledge widely, leverage technology to lead innovation to the world and contribute to the advancement of human society. I am proud to have garnered over **1000 stars** and acquired **120 followers** on GitHub. It is gratifying to know that my open-source projects have benefitted numerous individuals, and I have personally gained valuable knowledge from the open-source community.
 
+[Here](https://jerrysys.top/docs/Congrui_Yin_CV.pdf) is my CV in English Version, Template [here](https://github.com/JerryYin777/Jerry_CV) Using Typst.
 #### Contact
 * Github: [JerryYin777](https://github.com/JerryYin777)
 * Email: yin00486 [at] umn.edu
