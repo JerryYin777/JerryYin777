@@ -50,6 +50,10 @@ Let's Accelerate!
 
 [![Nano-GPT-Pytorch2.0](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=NanoGPT-Pytorch2.0-Implementation&theme=radical)](https://github.com/JerryYin777/NanoGPT-Pytorch2.0-Implementation)
 
+### Cr's Research Toolchain
+
+[![Nano-GPT-Pytorch2.0](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Cr_Research_Toolchain&theme=radical)](https://github.com/JerryYin777/Cr_Research_Toolchain)
+
 ### Intelligent Creation Platform Creator: Implementing GPT-2-based Title and Summary Generation Software
 
 [![Intelligent Creation Platform Creator](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=IntelligentCreator&theme=radical)](https://github.com/JerryYin777/IntelligentCreator)
