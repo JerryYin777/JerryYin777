@@ -67,11 +67,9 @@ Let's Accelerate!
 
 [![Linker](https://github-readme-stats.vercel.app/api/pin?username=JerryYin777&repo=Mathematical-Modelling&theme=radical)](https://github.com/JerryYin777/Mathematical-Modelling)
 
-### Keep writing and publishing articles daily about research in Chinese:
+### Keep writing and publishing articles daily about research in Chinese
 
-Zhihu column：[Jerry's Daily Progress](https://www.zhihu.com/column/c_1531067260675940352)
-Blog：[Personal Blog](https://jerryyin777.github.io/)
-
+[![Zhihu](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/ycr222)
 
 ## Get in touch
 
