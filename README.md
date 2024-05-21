@@ -1,8 +1,8 @@
-## Hi there（Update in 5.1） 👋
+## Hi there（Update in 5.15） 👋
+**News: One Paper Accepted by ACL2024 main conference**
 #### Biography
-I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities. I really love my campus life at U of M! 
 
-If you are a U of M Student, feel free to reach me if you are interested in computer science!
+I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities. **(Wechat: JerryYin777)**
 
 My research interests lie in Large Multimodal Models (LMMs) and their application in diverse practical scenarios, such as biological and system large models. My focus also extends to developing efficient machine learning systems aimed at expediting the training and inference processing of LMMs (especially LLMs), leveraging expertise in high-performance computing and distributed systems.
 
