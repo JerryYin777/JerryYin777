@@ -1,5 +1,13 @@
 ## Hi there（Update in 5.15） 👋
-**News: One Paper Accepted by ACL2024 main conference**
+News: 
+* **One Paper Accepted by ACL2024 main conference**
+* I am located in Haidian District at SenseTime Research, Beijing from May to late August, feel free to contact me! (Note: From Github)
+
+<div align=center>
+    <img src="https://github.com/JerryYin777/JerryYin777/assets/88324880/687f1032-1cf4-48b9-9efd-de1d44f58b37" alt="JerryYin777" style="width:25%;"/>
+</div>
+
+
 #### Biography
 
 I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities. **(Wechat: JerryYin777)**
