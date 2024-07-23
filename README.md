@@ -2,13 +2,6 @@
 News: 
 * **One Paper Accepted by ACL2024 main conference**
 * I am actively looking forward to 25Spring/25Fall Ph.D. Positions in USA.
-* I am located in Haidian District, Beijing at SenseTime Research from May to late August, feel free to contact me! (and eat) (Note: From Github)
-
-<div align=center>
-    <img src="https://github.com/JerryYin777/JerryYin777/assets/88324880/687f1032-1cf4-48b9-9efd-de1d44f58b37" alt="JerryYin777" style="width:25%;"/>
-</div>
-
-
 
 #### Biography
 
