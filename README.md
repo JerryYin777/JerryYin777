@@ -6,7 +6,7 @@
 
 #### News
 
-<strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+<strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to Contact Me!
 
 
 #### Biography
@@ -45,4 +45,6 @@ My current passion revolves around building **EFFICIENT** system solutions to AG
 * </strong></strong>I am very enthusiastic about discussing academic issues or any interesting project-related topics! </strong></strong> If you'd like to engage in a discussion or collaborate, feel free to contact me via email at any time. 
 
 * If you're an undergraduate student feeling uncertain, especially from a diverse background, and hope to gain some learning experiences from me, I also warmly welcome that!
+
+* ✉️ [yin00486 [at] umn.edu](mailto:yin00486@umn.edu)
 
